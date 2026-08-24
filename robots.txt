@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://manhwa-matrix.ondigitalocean.app/sitemap.xml
+Sitemap: https://seahorse-app-6xxrr.ondigitalocean.app/sitemap.xml
