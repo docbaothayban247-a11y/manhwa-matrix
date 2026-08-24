@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manhwa-matrix.ondigitalocean.app/sitemap.xml
