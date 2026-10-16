@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://seahorse-app-6xxrr.ondigitalocean.app/sitemap.xml
